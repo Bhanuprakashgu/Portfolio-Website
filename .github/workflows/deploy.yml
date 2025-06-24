@@ -23,8 +23,8 @@ jobs:
     - name: Install dependencies (with legacy peer deps)
       run: npm install --legacy-peer-deps
 
-    - name: Give vite permission
-      run: chmod +x node_modules/.bin/vite
+    - name: Fix esbuild permissions
+      run: chmod +x node_modules/@esbuild/linux-x64/bin/esbuild
 
     - name: Build
       run: npm run build
