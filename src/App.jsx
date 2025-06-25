@@ -508,7 +508,6 @@ function App() {
                 <span className="skill-tag">C/C++</span>
                 <span className="skill-tag">R Programming</span>
                 <span className="skill-tag">MySQL</span>
-                <span className="skill-tag">JavaScript</span>
               </div>
               <div className="card-glow"></div>
             </div>
