@@ -601,7 +601,7 @@ function App() {
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>FinForecast - Stock Market Analyser</h3>
-                <a href="https://github.com/Bhanuprakashgu/Stock-Market-Analyser" target="_blank" rel="noopener noreferrer" className="project-link">
+                <a href="https://stock-market-analyzer-ochre.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">
                   <FaGithub />
                 </a>
               </div>
