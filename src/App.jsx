@@ -602,6 +602,9 @@ function App() {
               <div className="project-header">
                 <h3>FinForecast - Stock Market Analyser</h3>
                 <a href="https://stock-market-analyzer-ochre.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">
+      <FiExternalLink />
+    </a>
+                <a href="https://github.com/Bhanuprakashgu/stock_analyzer" target="_blank" rel="noopener noreferrer" className="project-link">
                   <FaGithub />
                 </a>
               </div>
@@ -615,6 +618,29 @@ function App() {
               <div className="project-glow"></div>
             </div>
             
+            <div className="project-card magnetic">
+  <div className="project-header">
+    <h3>HealthPay Agentic Claim Processor</h3>
+    <a href="https://healthpay-agentic-claim-processor.onrender.com/" target="_blank" rel="noopener noreferrer" className="project-link">
+      <FiExternalLink />
+    </a>
+    <a href="https://github.com/Bhanuprakashgu/healthpay-agentic-claim-processor" target="_blank" rel="noopener noreferrer" className="project-link">
+      <FaGithub />
+    </a>
+  </div>
+  <p>
+    Intelligent health insurance claim processing system leveraging agent-based automation and modular architecture. Designed for scalable integrations and efficient workflow management in healthcare domains.
+  </p>
+  <div className="project-tech">
+    <span className="tech-tag">Python</span>
+    <span className="tech-tag">FastAPI</span>
+    <span className="tech-tag">LangChain</span>
+    <span className="tech-tag">Automation</span>
+  </div>
+  <div className="project-glow"></div>
+</div>
+            
+
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>Movie Recommendation System</h3>
@@ -631,29 +657,23 @@ function App() {
               </div>
               <div className="project-glow"></div>
             </div>
-            
-            <div className="project-card magnetic">
-              <div className="project-header">
-                <h3>Hate Speech Detection System</h3>
-                <div className="project-header">
-  <h3>Movie Recommendation System</h3>
-  <a href="https://movie-recommendation-bhanuprakashgu.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">
-    <FiExternalLink />
-  </a>
-  <a href="https://github.com/Bhanuprakashgu/movie-recommendation" target="_blank" rel="noopener noreferrer" className="project-link">
-    <FaGithub />
-  </a>
+
+           <div className="project-card magnetic">
+  <div className="project-header">
+    <h3>Hate Speech Detection System</h3>
+    <a href="https://github.com/Bhanuprakashgu/Hate-Speech-Detection" target="_blank" rel="noopener noreferrer" className="project-link">
+      <FaGithub />
+    </a>
+  </div>
+  <p>AI-powered system for identifying and classifying hate speech using BERT-based models and advanced NLP techniques with high accuracy and real-time processing.</p>
+  <div className="project-tech">
+    <span className="tech-tag">Python</span>
+    <span className="tech-tag">BERT</span>
+    <span className="tech-tag">TensorFlow</span>
+    <span className="tech-tag">NLP</span>
+  </div>
+  <div className="project-glow"></div>
 </div>
-              </div>
-              <p>AI-powered system for identifying and classifying hate speech using BERT-based models and advanced NLP techniques with high accuracy and real-time processing.</p>
-              <div className="project-tech">
-                <span className="tech-tag">Python</span>
-                <span className="tech-tag">BERT</span>
-                <span className="tech-tag">TensorFlow</span>
-                <span className="tech-tag">NLP</span>
-              </div>
-              <div className="project-glow"></div>
-            </div>
             
             <div className="project-card magnetic">
               <div className="project-header">
