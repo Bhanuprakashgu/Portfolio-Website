@@ -6,7 +6,7 @@ import { MorphSVGPlugin } from 'gsap/MorphSVGPlugin';
 import { MotionPathPlugin } from 'gsap/MotionPathPlugin';
 import './App.css';
 import { FaGithub, FaLinkedin, FaEnvelope, FaCode, FaDatabase, FaChartBar, FaBrain, FaLaptopCode, FaTools, FaUsers, FaRocket, FaStar, FaHeart } from 'react-icons/fa';
-
+import { FiExternalLink } from 'react-icons/fi';
 gsap.registerPlugin(ScrollTrigger, TextPlugin, MorphSVGPlugin, MotionPathPlugin);
 
 function App() {
