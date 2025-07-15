@@ -505,7 +505,7 @@ function App() {
               <h3>Programming Languages</h3>
               <div className="skill-tags">
                 <span className="skill-tag">Python</span>
-                <span className="skill-tag">C/C++</span>
+                <span className="skill-tag">C&C++</span>
                 <span className="skill-tag">R Programming</span>
                 <span className="skill-tag">MySQL</span>
                 
@@ -635,6 +635,9 @@ function App() {
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>Hate Speech Detection System</h3>
+                <a href="https://github.com/Bhanuprakashgu/Hate-Speech-Detection" target="_blank" rel="noopener noreferrer" className="project-link">
+                  <FiExternalLink />
+                </a>
                 <a href="https://github.com/Bhanuprakashgu/Hate-Speech-Detection" target="_blank" rel="noopener noreferrer" className="project-link">
                   <FaGithub />
                 </a>
