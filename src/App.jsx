@@ -635,12 +635,15 @@ function App() {
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>Hate Speech Detection System</h3>
-                <a href="https://github.com/Bhanuprakashgu/Hate-Speech-Detection" target="_blank" rel="noopener noreferrer" className="project-link">
-                  <FiExternalLink />
-                </a>
-                <a href="https://github.com/Bhanuprakashgu/Hate-Speech-Detection" target="_blank" rel="noopener noreferrer" className="project-link">
-                  <FaGithub />
-                </a>
+                <div className="project-header">
+  <h3>Movie Recommendation System</h3>
+  <a href="https://movie-recommendation-bhanuprakashgu.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">
+    <FiExternalLink />
+  </a>
+  <a href="https://github.com/Bhanuprakashgu/movie-recommendation" target="_blank" rel="noopener noreferrer" className="project-link">
+    <FaGithub />
+  </a>
+</div>
               </div>
               <p>AI-powered system for identifying and classifying hate speech using BERT-based models and advanced NLP techniques with high accuracy and real-time processing.</p>
               <div className="project-tech">
