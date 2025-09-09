@@ -414,7 +414,7 @@ function App() {
               <span>Let's Collaborate</span>
               <div className="btn-ripple"></div>
             </button>
-            <a href="https://drive.google.com/file/d/12goPfSK8TMcyWNqNCy2p_5jilPZtKE17/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary magnetic btn-large">
+            <a href="https://drive.google.com/file/d/1j59UsPa2RI4hYHDkLwG1VrRMmWo0TlJz/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary magnetic btn-large">
               <FaEnvelope className="btn-icon" />
               <span>View Resume</span>
               <div className="btn-ripple"></div>
@@ -590,7 +590,7 @@ function App() {
         </div>
       </section>
 
-      {/* Enhanced Projects Section */}
+      
       <section id="projects" className="projects-section">
         <div className="container">
           <h2 className="section-title animate-on-scroll">
@@ -598,6 +598,27 @@ function App() {
             <div className="title-underline"></div>
           </h2>
           <div className="projects-grid">
+
+            <div className="project-card magnetic">
+              <div className="project-header">
+                <h3>AI Tutor: Personalized Learning Assistant</h3>
+                <a href="https://github.com/Bhanuprakashgu/AI-Tutor" target="_blank" rel="noopener noreferrer" className="project-link">
+                  <FaGithub />
+                </a>
+              </div>
+              <p>An interactive AI-powered educational assistant designed to provide personalized learning experiences through intelligent Q&A, document analysis, and interactive conversations. It leverages advanced AI models to make learning accessible and engaging.</p>
+              <div className="project-tech">
+                <span className="tech-tag">Python</span>
+                <span className="tech-tag">Flask</span>
+                <span className="tech-tag">LangChain</span>
+                <span className="tech-tag">AI/ML</span>
+                <span className="tech-tag">Speech-to-Text</span>
+                <span className="tech-tag">Text-to-Speech</span>
+                <span className="tech-tag">ChromaDB</span>
+              </div>
+              <div className="project-glow"></div>
+            </div>
+
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>FinForecast - Stock Market Analyser</h3>
@@ -619,6 +640,8 @@ function App() {
             </div>
             
             <div className="project-card magnetic">
+
+  <div className="project-card magnetic">
   <div className="project-header">
     <h3>HealthPay Agentic Claim Processor</h3>
     <a href="https://healthpay-agentic-claim-processor.onrender.com/" target="_blank" rel="noopener noreferrer" className="project-link">
@@ -640,7 +663,6 @@ function App() {
   <div className="project-glow"></div>
 </div>
             
-
             <div className="project-card magnetic">
               <div className="project-header">
                 <h3>Movie Recommendation System</h3>
