@@ -640,8 +640,6 @@ function App() {
             </div>
             
             <div className="project-card magnetic">
-
-  <div className="project-card magnetic">
   <div className="project-header">
     <h3>HealthPay Agentic Claim Processor</h3>
     <a href="https://healthpay-agentic-claim-processor.onrender.com/" target="_blank" rel="noopener noreferrer" className="project-link">
