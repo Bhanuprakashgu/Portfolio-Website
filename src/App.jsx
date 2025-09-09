@@ -414,7 +414,7 @@ function App() {
               <span>Let's Collaborate</span>
               <div className="btn-ripple"></div>
             </button>
-            <a href="https://drive.google.com/file/d/1Td5tRFSnD0XWu7W8ZjfYTKu4Nr0-Nrtv/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary magnetic btn-large">
+            <a href="https://drive.google.com/file/d/1sG2hA5Ik0d-jNtwsUb3tw6NTO66wwPGs/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary magnetic btn-large">
               <FaEnvelope className="btn-icon" />
               <span>View Resume</span>
               <div className="btn-ripple"></div>
