@@ -456,25 +456,35 @@ function App() {
           <div className="about-content">
             <div className="about-text">
               <p className="animate-on-scroll">
-                I am a passionate and results-driven AI & Data Science professional with a strong foundation in machine learning, 
-                deep learning, and data analysis. Recently graduated with a B.Tech in Artificial Intelligence & Data Science, 
-                achieving a CGPA of 8.1/10.0.
+                I am currently pursuing a Master of Artificial Intelligence at RMIT University, Melbourne, 
+                building on my Bachelor’s in Artificial Intelligence & Data Science where I graduated with a CGPA of 8.1/10.
+                I have developed a strong foundation in Machine Learning, Data Science, and Deep Learning, with a growing focus on Generative AI and
+                intelligent systems.
               </p>
               <p className="animate-on-scroll">
-                My expertise lies in transforming complex datasets into actionable insights and building intelligent systems 
-                that solve real-world problems. I am proficient in Python, R, and SQL, with hands-on experience in TensorFlow, 
-                Pandas, NumPy, and Scikit-learn.
+                I enjoy working on real-world problems by transforming complex data into meaningful insights and scalable solutions. 
+                My experience includes developing end-to-end projects in areas such as NLP, computer vision, and predictive analytics using tools like Python,
+                TensorFlow, Scikit-learn, and modern AI frameworks.
               </p>
               <p className="animate-on-scroll">
-                With over 100+ problems solved on LeetCode and expertise in advanced algorithms including Divide and Conquer, 
-                Dynamic Programming, and Database optimization, I bring both theoretical knowledge and practical problem-solving skills.
+                With 150+ problems solved on LeetCode, I have strengthened my problem-solving ability across algorithms and data structures, 
+                including Dynamic Programming and optimization techniques. I focus on writing efficient, clean, and practical solutions.
+              </p>
+              <p className="animate-on-scroll">
+              I am also comfortable explaining technical concepts clearly and enjoy collaborating with others, whether in academic settings or industry-focused
+                projects.
               </p>
             </div>
+     
             <div className="about-cards">
               <div className="info-card animate-on-scroll magnetic">
                 <div className="card-icon">🎓</div>
                 <h3>Education</h3>
-                <p>B.Tech in AI & Data Science</p>
+                <p><strong>Master of Artificial Intelligence</strong></p>
+                <p>RMIT University, Melbourne, Australia</p>
+                <p>2026 – Present</p>
+                <br />
+                <p><strong>Bachelor of Technology in Artificial Intelligence & Data Science</strong></p>
                 <p>Guru Nanak Institutions Technical Campus</p>
                 <p>CGPA: 8.1/10.0 (2021-2025)</p>
               </div>
@@ -482,8 +492,8 @@ function App() {
                 <div className="card-icon">📞</div>
                 <h3>Contact</h3>
                 <p>📧 bhanuprakashguddeti@gmail.com</p>
-                <p>📱 +91 8096009638</p>
-                <p>📍 Hyderabad, Telangana, India</p>
+                <p>📱 +61 450123673</p>
+                <p>📍 Melbourne, Victoria, Australia</p>
               </div>
             </div>
           </div>
@@ -894,10 +904,10 @@ function App() {
                     <div className="btn-particles"></div>
                   </a>
                   
-                  <a href="tel:+918096009638" className="contact-btn mobile magnetic">
+                  <a href="tel:+61 450123673" className="contact-btn mobile magnetic">
                     <div className="mobile-icon">📱</div>
                     <span>Call Me</span>
-                    <div className="mobile-number">+91 8096009638</div>
+                    <div className="mobile-number">+61 450123673</div>
                     <div className="btn-particles"></div>
                   </a>
                   
